@@ -1,10 +1,12 @@
 # 📝 DriveDocs / gdocify
 
+```text
    ____                 ____              _            
   |  _ \ __ _ ___ ___  |  _ \ ___  ___ __| | ___ _ __ 
   | | | / _` / __/ __| | |_) / _ \/ __/ _` |/ _ \ '__|
   | |_| | (_| \__ \__ \ |  _ <  __/ (_| (_| |  __/ |   
   |____/ \__,_|___/___/ |_| \_\___|\___\__,_|\___|_|
+```
 
 
 ![.NET](https://img.shields.io/badge/.NET-6+-blue)
@@ -33,10 +35,11 @@
 ---
 
 ## ⚙ Installation
-
+```bash
 git clone https://github.com/8981/DriveDocs.git
 cd DriveDocs
 dotnet restore
+```
 
 ## Install required packages for the library:
 
