@@ -64,6 +64,7 @@ https://docs.google.com/document/d/1XxXxXxXxXx/edit
 
 
 ## 💻 SDK / Library Usage
+```code
 using DriveDocs.Client.Services;
 
 var uploader = new DriveUploader();
@@ -74,7 +75,7 @@ var link = await uploader.UploadDocxAsync(
     "example@email.com");
 
 Console.WriteLine(link);
-
+```
 
 ## 📊 UploadDocxAsync Parameters
 <img width="1080" height="350" alt="image" src="https://github.com/user-attachments/assets/13f28156-5516-4d42-bfee-2b97f8551010" />
