@@ -74,8 +74,7 @@ Console.WriteLine(link);
 
 
 ## 📊 UploadDocxAsync Parameters
-<img width="1077" height="402" alt="image" src="https://github.com/user-attachments/assets/c9aacc71-881c-4775-acba-083da65470e0" />
-
+<img width="1080" height="350" alt="image" src="https://github.com/user-attachments/assets/13f28156-5516-4d42-bfee-2b97f8551010" />
 
 
 ## Token Folder
